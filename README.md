@@ -1,1 +1,1 @@
-# Haley
+# HaleyRate limiter configuration
